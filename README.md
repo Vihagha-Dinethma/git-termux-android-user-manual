@@ -9,7 +9,7 @@ git push -f origin <branch name>
 # -f = froce push 
 git push -u origin <branch name>
 ```
-
+new
 #### Errors
 ```bash
 git branch -M main
